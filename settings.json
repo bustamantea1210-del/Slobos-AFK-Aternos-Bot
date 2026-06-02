@@ -8,7 +8,7 @@
   "server": {
     "ip": "some-irLO.aternos.me",
     "port": 32591,
-    "version": "1.21",
+    "version": "false",
     "try-creative": false
   },
   "position": {
