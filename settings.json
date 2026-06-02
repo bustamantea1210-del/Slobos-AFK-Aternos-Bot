@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "some-irLO.aternos.me"
+    "ip": "some-irLO.aternos.me",
     "port": 32591,
     "version": "",
     "try-creative": false
